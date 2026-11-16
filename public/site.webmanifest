@@ -1,0 +1,13 @@
+{
+  "name": "M_DEV Cars",
+  "short_name": "M_DEV Cars",
+  "description": "A cinematic 3D car showcase.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050609",
+  "theme_color": "#050609",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
